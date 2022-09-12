@@ -1,0 +1,2 @@
+socket:
+  url: ws://b-mocks.dev.app.getbaraka.com:9989
