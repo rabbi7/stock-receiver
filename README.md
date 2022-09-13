@@ -12,7 +12,7 @@ Test task for baraka company
     ```
 2. Run docker container
     ```
-    docker run stock-receiver
+    docker run -p 8080:8080 stock-receiver
     ```
 App is run on the port 8080.
 You can reach the swagger of the app by link
